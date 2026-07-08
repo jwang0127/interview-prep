@@ -1,0 +1,9 @@
+# Personal source files
+*.pdf
+*.docx
+~$*
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
